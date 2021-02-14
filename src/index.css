@@ -1,0 +1,30 @@
+body {
+  margin: 100px 100px;
+  max-width: 960px;
+  background-color: teal;
+  font-family: arial;
+}
+
+.tt{
+  font-weight: bold;
+
+}
+
+.div{
+  background-color: green;
+}
+
+.beaches{
+  background-color: purple;
+}
+.joke{
+  border-style: solid;
+  border-color: red;
+  border-radius: 10px;
+  margin: 10px;
+
+}
+
+.heading{
+  text-align: center;
+}
